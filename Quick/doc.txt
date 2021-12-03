@@ -1,0 +1,79 @@
+
+
+
+
+
+web design-responsive webdesign - fe HTML css js jq boostrap 
+
+img to html 
+psd to html 
+url to html 
+pdf / text /doc to html /sketch / wire frame / layout to html/figma / xd / indesign to html 
+
+web redesign 
+bug fix 
+
+
+class 545.
+
+img to html
+		section define
+		layout define 
+		assset gather 
+			logo
+			images
+			icon
+			font
+			text
+
+	code commnent 
+	semantic markup 
+	common formate 
+
+	re usable  
+	code hei--
+		margin
+		width
+		height
+		font-family 
+		font-size 
+		font-weight 
+		color 
+	seo freindly code 
+	speed optimization 
+	cross browser support 
+	html validation
+	bug free	
+
+	ui
+	ux
+
+
+Overview Landings Pages Apps Docs
+
+Color code that we liked 
+red EF483A
+nav blue 12364B
+
+
+
+
+
+
+
+.container {
+}
+
+.logo {
+}
+
+.menu {
+}
+
+
+
+
+
+
+
+
